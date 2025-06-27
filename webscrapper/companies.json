@@ -1,0 +1,23 @@
+[
+  {
+    "name": "DataDog",
+    "website": "https://www.datadoghq.com",
+    "description": "Cloud monitoring and security platform that provides observability of servers, databases, tools, and services.",
+    "location": "New York, NY",
+    "industry": "Software Development",
+    "employees": "4000+",
+    "emails": [
+      "info@datadoghq.com"
+    ],
+    "phones": [
+      "20250212",
+      "5.8338886325",
+      "32.266218.818532.500718.997932.684919.2237"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/company/datadog",
+      "twitter": "https://twitter.com/datadoghq",
+      "facebook": null
+    }
+  }
+]
